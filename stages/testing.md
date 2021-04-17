@@ -6,12 +6,14 @@
 ### __Stage description:__  
 Insert your description of the stage here  
 
-| Pipeline Stage:<br>Test  | Role 1  | Role 2  | Role 3  | Role 4  | Role N  |
-|----------------------------- |-------- |-------- |-------- |-------- |-------- |
-| Task 1                       |         |         |         |         |         |
-| Task 2                       |         |         |         |         |         |
-| Task 3                       |         |         |         |         |         |
-| Task N                       |         |         |         |         |         |
-  
+| Pipeline Stage:<br>Test  | Tester  | Test Manager  | Release Manager  | Product Owner  | Developer  |IT |
+|----------------------------- |-------- |-------- |-------- |-------- |-------- |-------- |
+| Define test plan                       |         |         |         |         |         |         |
+| Create automated test                       |         |         |         |         |         |         |
+| Build Application in test environment                       |         |         |         |         |         |         |
+| Validate test                       |         |         |         |         |         |         |
+| Branch test code                       |         |         |         |         |         |         |
+| Approve test execution                       |         |         |         |         |         |         |
+    
   
 [Home](../index.md)  
