@@ -11,9 +11,10 @@ Insert your description of the stage here
 | Define test plan                       |         |         |         |         |         |         |
 | Create automated test                       |         |         |         |         |         |         |
 | Build Application in test environment                       |         |         |         |         |         |         |
-| Validate test                       |         |         |         |         |         |         |
+| Execute Automated Test                    |         |         |         |         |         |         |
+| Create Bugs                    |         |         |         |         |         |         |
+| Fix Bugs                    |         |         |         |         |         |         |
 | Branch test code                       |         |         |         |         |         |         |
-| Approve test execution                       |         |         |         |         |         |         |
     
   
 [Home](../index.md)  
