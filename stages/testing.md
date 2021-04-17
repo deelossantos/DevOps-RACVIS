@@ -4,7 +4,7 @@
 
 ## __Pipeline stage:__  Test  
 ### __Stage description:__  
-Insert your description of the stage here  
+During This practical task RACIVS matrix is created to document the different steps during the Test Stage along with the reosponsabities within the DevOps testing team in the execution of those tasks.
 
 | Pipeline Stage:<br>Test  | Tester  | Test Manager  | Release Manager  | Product Owner  | Developer  |System administrator |
 |----------------------------- |-------- |-------- |-------- |-------- |-------- |-------- |
