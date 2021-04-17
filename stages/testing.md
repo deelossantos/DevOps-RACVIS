@@ -9,7 +9,7 @@ During This practical task RACIVS matrix is created to document the different st
 | Pipeline Stage:<br>Test  | Tester  | Test Manager  | Release Manager  | Product Owner  | Developer  |System administrator |
 |----------------------------- |-------- |-------- |-------- |-------- |-------- |-------- |
 | Define test plan                       |    A     |   RS      |   VS      |   CS      |         |   I     |
-| Create automated test                       |   RA      |    VC     |       |    I    |        |        |
+| Create automated test                       |   RA      |    V     |       |    CI    |        |        |
 | Build Application in test environment                       |    I    |    V    |   V     |       |        |    R    |
 | Execute Automated Test                    |    RA   |    VS  |   S    |   S|       |        |
 | Create Bugs                    |   RA    |   V     |   I     |   C     |   I     |       |
