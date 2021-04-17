@@ -8,13 +8,13 @@ Insert your description of the stage here
 
 | Pipeline Stage:<br>Test  | Tester  | Test Manager  | Release Manager  | Product Owner  | Developer  |System administrator |
 |----------------------------- |-------- |-------- |-------- |-------- |-------- |-------- |
-| Define test plan                       |         |         |         |         |         |         |
-| Create automated test                       |         |         |         |         |         |         |
-| Build Application in test environment                       |         |         |         |         |         |         |
-| Execute Automated Test                    |         |         |         |         |         |         |
-| Create Bugs                    |         |         |         |         |         |         |
-| Fix Bugs                    |         |         |         |         |         |         |
-| Branch test code                       |         |         |         |         |         |         |
+| Define test plan                       |    A     |   RS      |   IS      |   CS      |   I      |   I      |
+| Create automated test                       |   RA      |    VC     |    I    |    I    |   I     |   I     |
+| Build Application in test environment                       |    V    |    V    |   V     |   I    |   I     |    R    |
+| Execute Automated Test                    |    RA   |    VS  |   VS    |   VS|    I    |    I    |
+| Create Bugs                    |   RA    |   V     |   I     |   I     |   I     |   I     |
+| Fix Bugs                    |    V    |    V    |    I    |    I    |    RA   |    I    |
+| Branch test code                       |    IC   |   RA    |  VS          |   I     |         |
     
   
 [Home](../index.md)  
