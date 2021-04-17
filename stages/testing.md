@@ -6,7 +6,7 @@
 ### __Stage description:__  
 Insert your description of the stage here  
 
-| Pipeline Stage:<br>Test  | Tester  | Test Manager  | Release Manager  | Product Owner  | Developer  |IT |
+| Pipeline Stage:<br>Test  | Tester  | Test Manager  | Release Manager  | Product Owner  | Developer  |System administrator |
 |----------------------------- |-------- |-------- |-------- |-------- |-------- |-------- |
 | Define test plan                       |         |         |         |         |         |         |
 | Create automated test                       |         |         |         |         |         |         |
